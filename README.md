@@ -1,8 +1,26 @@
 # Advanced Professional Development
 Notebook
 
-## Week 1 Critical analysis and logical thinking techniques
-### 1. Definition of critical thinking
+## Contents
+* [**Week 1** Critical analysis and logical thinking techniques](#1)
+	* [Definition of critical thinking](#1.1)
+	
+	* [Arguments and premises](#1.2)
+		* [Critical Reasoning](#1.2.1)
+		* [Valid vs invalid arguments](#1.2.2)
+		* [Sound vs unsound arguments](#1.2.3)
+		* [Inductive vs fallacious arguments](#1.2.4)
+		* [What makes an argument strong or weak?](#1.2.5)
+	
+	* [Evaluating Arguments](#1.3)
+		* [A seven-step strategy](#1.3.1)
+		* [Common fallacies](#1.3.2)
+* [**Week 2** Cyberethics, ethical concepts and theories](#2)
+	* [1](#2.1) 
+* [**Week 3**](#3)
+
+##<h2 id="1"> Week 1 Critical analysis and logical thinking techniques
+###<h3 id="1.1"> 1. Definition of critical thinking
 **A mode of thinking where the thinker improves the quality of his or her thinking by skilfully taking charge of the structures inherent in thinking and imposing intellectual standards upon them.**<br>
 
 self-directed (i.e. determined to form excellent thoughts)<br>
@@ -10,8 +28,8 @@ self-disciplined (i.e. disciplined to apply the system)<br>
 self-monitored (i.e. continuous observation and examination of one’s own thoughts)<br>
 self-corrective (i.e. corrective feedback as the result of one’s own analysis)<br>
 
-### 2. Arguments and premises
-#### 2.1 Critical Reasoning
+###<h3 id="1.2"> 2. Arguments and premises
+####<h4 id="1.2.1"> 2.1 Critical Reasoning
 Critical reasoning makes use of the strategies involved in critical thinking to analyse and evaluate arguments. Critical reasoning, like critical thinking, is a core skill for academic enquiry in general, as it allows an individual to evaluate an argument based on the available evidence, compare and contrast the argument with other arguments available, and make an informed judgement about the argument’s strengths and weaknesses.
 
 __An argument is a collection of claims (a.k.a. statements or assertions). Some of which are reasons (i.e. the premises) for another (i.e. the conclusion).__<br>
@@ -93,7 +111,7 @@ I don’t think going to gym has any impact on losing weight.
 ```
 When the unwritten premise becomes explicit, you might witness flaws in the logic and structure of an argument as you can see above.
 
-#### 2.2 Valid vs invalid arguments
+####<h4 id="1.2.2"> 2.2 Valid vs invalid arguments
 **A valid argument is valid by virtue of its logical form, not its content.**
 
 ```
@@ -124,25 +142,25 @@ Is it possible for the conclusion to be FALSE?<br>
 > > CONCLUSION (impossible to be false)
 
 
-#### 2.3 Sound vs unsound arguments
+####<h4 id="1.2.3"> 2.3 Sound vs unsound arguments
 **A sound argument is both valid (i.e. the assumed truth of the premises would guarantee the truth of the argument’s conclusion); and its premises are true in the actual world.**
 
 An argument is considered sound when it passes the first test of validity (i.e., it is valid) and its premises can be proven to be true in the real world (i.e., not just assumed to be true).
 
 Sound arguments are not common, and where they do exist, they are likely to be trivial and not particularly informative or interesting.
 
-#### 2.4 Inductive vs fallacious arguments
+####<h4 id="1.2.4"> 2.4 Inductive vs fallacious arguments
 > Not all invalid arguments are weak arguments.
 > 
 > * **An inductive argument, for example, is an invalid argument which, while it does not guarantee its conclusion contains a high degree of probability, its conclusion is correct.** <br>In other words, an inductive argument is an argument in which the conclusion likely follows from assuming the truth of the premises.
 >
 > * **A fallacious argument is the inverse of an inductive argument. It is an invalid argument which does not guarantee its conclusion and contains a low degree of probability that its conclusion is correct.**<br> In other words, an argument in which the conclusion does not likely follow from assuming the truth of the premises.
 
-#### 2.5 What makes an argument strong or weak?
+####<h4 id="1.2.5"> 2.5 What makes an argument strong or weak?
 ![Argument strong or weak](./strong_or_weak.png "Strong or weak")
 
-### 3. Evaluating Arguments
-#### 3.1 A seven-step strategy
+###<h3 id="1.3"> 3. Evaluating Arguments
+####<h4 id="1.3.1"> 3.1 A seven-step strategy
 Scenario: Reasoning about whether to download software from “Sharester”
 
 > You are contemplating downloading a software application that is available on a Web site called Sharester, a file‐sharing P2P (peer‐to‐peer) site. Sharester is not officially designated as a “pirate site” because it mainly provides users with access to (freely available) open‐source software applications. However, this site also contains a few proprietary (or copyrighted) software applications that users can download. It turns out that the particular application you are interested in downloading is proprietary; furthermore, there is no indication that the copyright holder has authorized the free downloading of that application. Although you wish to download this application for personal use (only), you are conflicted about what to do; so you discuss your concerns with a close friend, Charlie.
@@ -199,7 +217,7 @@ You are engaged in an intense discussion with your friend, Bill, who works in th
 > 
 > Tavani, Herman T. 2015, *Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing*, 5th edn, Wiley. 
 
-#### 3.2 Common fallacies
+####<h4 id="1.3.2"> 3.2 Common fallacies
 **Fallacy does not mean false statement.**<br>
 
 * 13 common different types of fallacies:
@@ -267,5 +285,7 @@ You are engaged in an intense discussion with your friend, Bill, who works in th
 > **Guilt by Association**
 > > Two things share some properties, therefore they are the same.
 
-## Week 2 Cyberethics, ethical concepts and theories
-### 1.
+---
+
+##<h2 id="2"> Week 2 Cyberethics, ethical concepts and theories
+###<h3 id="2.1"> 1.
