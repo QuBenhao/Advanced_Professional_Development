@@ -157,7 +157,7 @@ Sound arguments are not common, and where they do exist, they are likely to be t
 > * **A fallacious argument is the inverse of an inductive argument. It is an invalid argument which does not guarantee its conclusion and contains a low degree of probability that its conclusion is correct.**<br> In other words, an argument in which the conclusion does not likely follow from assuming the truth of the premises.
 
 ####<h4 id="1.2.5"> 2.5 What makes an argument strong or weak?
-![Argument strong or weak](./strong_or_weak.png "Strong or weak")
+![Argument strong or weak](./img/strong_or_weak.png "Strong or weak")
 
 ###<h3 id="1.3"> 3. Evaluating Arguments
 ####<h4 id="1.3.1"> 3.1 A seven-step strategy
