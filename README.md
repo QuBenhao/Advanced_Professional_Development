@@ -1,8 +1,8 @@
 # Advanced Professional Development
-Notebook
-
 ## Contents
+
 * [**Week 1** Critical analysis and logical thinking techniques](#1)
+	
 	* [Definition of critical thinking](#1.1)
 	
 	* [Arguments and premises](#1.2)
@@ -15,9 +15,14 @@ Notebook
 	* [Evaluating Arguments](#1.3)
 		* [A seven-step strategy](#1.3.1)
 		* [Common fallacies](#1.3.2)
+	
 * [**Week 2** Cyberethics, ethical concepts and theories](#2)
+	
 	* [1](#2.1) 
+	
 * [**Week 3**](#3)
+
+  ---
 
 
 <h2 id="1"> Week 1 Critical analysis and logical thinking techniques</h2>
@@ -180,7 +185,7 @@ Scenario: Reasoning about whether to download software from “Sharester”
 **Apply seven-step strategy:**
 
 > **Step 1:** Convert the argument into standard form. List the premises and the conclusion.
-> 
+>
 > > In this scenario, the premises and the conclusion are already presented.
 > > 
 > > Premise 1: Downloading proprietary software (without permission from the copyright holder) is identical to stealing physical property.
@@ -196,7 +201,7 @@ Scenario: Reasoning about whether to download software from “Sharester”
 > **Step 3:** Is the argument valid?
 > > If yes, go to Step 4.<br>
 > > If no, go to Step 5.
-> 
+>
 > **Step 4:** Is the valid argument also sound?
 > > **The above argument is valid.**<br>
 > > “Are all of the premises true in the actual world?”<br>
@@ -206,7 +211,7 @@ Scenario: Reasoning about whether to download software from “Sharester”
 > **Step 5:** Is the invalid argument inductive or fallacious?
 > > **The above argument is invalid.**<br>
 > > The above argument is valid so we can skip step 5 which only applies to invalid arguments.
->  
+>
 > **Step 6:** Determine whether the premises in your argument are either true or false in the actual world.
 > > * Premise 1<br>
 > > The truth or falsity of Premise 1 is not so clear cut. Although there would certainly seem to be a strong analogy between stealing physical property and downloading unauthorised software, there are also some disanalogies. Thus, the two behaviours are not, strictly speaking at least, “identical”. So, Premise 1 may be either false or indeterminate (i.e., it is not literally true).
@@ -215,6 +220,7 @@ Scenario: Reasoning about whether to download software from “Sharester”
 > > Premise 2 is a true statement (and is easily verifiable).
 >
 > **Step 7:** Make an overall assessment of the argument.
+>
 > > The argument is valid and unsound.
 
 > * Scenario 1<br>
@@ -232,34 +238,34 @@ You are engaged in an intense discussion with your friend, Bill, who works in th
 * 13 common different types of fallacies:
 
 > **Ad Hominem Argument** (Latin for 'to the person')<br>
->  
+>
 > > Attack is directed at the person rather than the substance of what is disputed.
 > > 
 > > For example, Edward Snowden was not a whistle-blower, but rather a self-serving narcissist who was more interested in promoting himself than in exposing any wrongdoing. Also, he is reported to have lied both to his employer and his girlfriend. So, how could anyone possibly believe that Snowden’s leaking of the sensitive NSA documents was morally justified?
-> 
+>
 > **Slippery Slope Argument**
 > > X could possibly be abused; therefore, we should not allow X.
 > > 
 > > For example, we should not continue to allow computer manufacturers to build computer systems that include CD burners. If we allow them to do so, young people will burn copies of copyrighted music illegally.
-> 
+>
 > **Fallacy of Appeal to Authority**
 > > PREMISE 1: X is an authority in field Y.<br>
 > > PREMISE 2: X said Z.<br>
 > > CONCLUSION: Z.<br>
 > > 
 > > For example, Tim Berners-Lee believes that Twitter is superior to SNSs such as Facebook and LinkedIn. And Berners-Lee is clearly an expert on matters involving the web and the internet. So, Twitter must be superior to alternative SNSs such as Facebook and LinkedIn.
-> 
+>
 > **False Cause Fallacy**
 > > PREMISE 1: Event X preceded event Y.<br>
 > > CONCLUSION: Event X is necessarily the cause of event Y.
 > >
 > > For example, shortly after the release of the Microsoft Windows 10 operating system in 2015, Microsoft’s stock plummeted severely. Hence, there is no doubt that the release of Windows 8 is responsible for the decline in Microsoft’s loss in the stock market.
-> 
+>
 > **Fallacy of Composition**
 > > This fallacy confuses the characteristics that apply to the parts of a whole, or to the individual members of a group, with the characteristics of the whole itself.
 > >
 > > For example, the new XYZ laptop computer is the best system on the market. XYZ has the fastest processor currently available on any laptop, it comes with twice the amount of RAM than any of its competitors, and it comes equipped with a suite of office applications that are superior to those on any currently available system. Also, its monitor has the best resolution and graphic display currently available on any commercial laptop.
-> 
+>
 > **Fallacy of Ambiguity**
 > > This fallacy occurs whenever one or more terms in an argument are used ambiguously. Ambiguous terms have more than one meaning.
 > >
@@ -271,27 +277,28 @@ You are engaged in an intense discussion with your friend, Bill, who works in th
 > >EXAMPLE 1: If you are not with us, you are against us.<br>
 > >EXAMPLE 2: Either you agree with firearms regulation or you hate America.<br>
 > >EXAMPLE 3: If you don’t believe in God, you are an unethical person.
-> 
+>
 > **The Virtuality Fallacy**
 > > PREMISE 1: X exists in cyberspace.<br>
 > > PREMISE 2: Cyberspace is virtual.<br>
 > > CONCLUSION: X (or the effect of X) is not real.
 > > 
 > > For example, launching viruses and engaging in unauthorised entries into computer systems exists in cyberspace and does not cause any real harm to people.
-> 
+>
 > **Non-Testable Hypothesis**
 > > Something that is not proven false, must or is likely to be true. 
-> 
+>
 > **Band Wagon**
 > > The popular ideas are necessarily right.
-> 
+>
 > **Red Herring**
 > > Introducing a topic not related to the subject at hand in order to talk about a seemingly relevant, but in fact irrelevant, topic rather than the real or original issue.
-> 
+>
 > **Straw Man**
 > > Misrepresenting the opponent’s position (e.g. by weakening it) and producing an argument against the misrepresentation.
-> 
+>
 > **Guilt by Association**
+>
 > > Two things share some properties, therefore they are the same.
 
 ---
