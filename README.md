@@ -135,7 +135,7 @@ Sound arguments are not common, and where they do exist, they are likely to be t
 > Not all invalid arguments are weak arguments.
 > 
 > * **An inductive argument, for example, is an invalid argument which, while it does not guarantee its conclusion contains a high degree of probability, its conclusion is correct.** <br>In other words, an inductive argument is an argument in which the conclusion likely follows from assuming the truth of the premises.
-
+>
 > * **A fallacious argument is the inverse of an inductive argument. It is an invalid argument which does not guarantee its conclusion and contains a low degree of probability that its conclusion is correct.**<br> In other words, an argument in which the conclusion does not likely follow from assuming the truth of the premises.
 
 #### 2.5 What makes an argument strong or weak?
@@ -146,9 +146,9 @@ Sound arguments are not common, and where they do exist, they are likely to be t
 Scenario: Reasoning about whether to download software from “Sharester”
 
 > You are contemplating downloading a software application that is available on a Web site called Sharester, a file‐sharing P2P (peer‐to‐peer) site. Sharester is not officially designated as a “pirate site” because it mainly provides users with access to (freely available) open‐source software applications. However, this site also contains a few proprietary (or copyrighted) software applications that users can download. It turns out that the particular application you are interested in downloading is proprietary; furthermore, there is no indication that the copyright holder has authorized the free downloading of that application. Although you wish to download this application for personal use (only), you are conflicted about what to do; so you discuss your concerns with a close friend, Charlie.
-
+>
 > Charlie tries to convince you not to download a proprietary software program using the following rationale: Downloading proprietary software (without permission from the copyright holder) is identical to stealing physical property. Stealing physical property is morally wrong. Therefore, downloading proprietary software (without permission) is morally wrong.
-
+>
 > (Reproduced from Tavani, Herman T. 2015, *Ethics and Technology: Controversies, Questions and Strategies for Ethical Computing*, 5th edn, Wiley.)
 
 <br>
@@ -169,8 +169,7 @@ Scenario: Reasoning about whether to download software from “Sharester”
 > > If we assume the truth of both its premises, the conclusion cannot be false.
 >
 > **Step 3:** Is the argument valid?
-> > If yes, go to Step 4.
-
+> > If yes, go to Step 4.<br>
 > > If no, go to Step 5.
 > 
 > **Step 4:** Is the valid argument also sound?
@@ -194,13 +193,14 @@ Scenario: Reasoning about whether to download software from “Sharester”
 > > The argument is valid and unsound.
 
 <br>
+>
 > * Scenario 1<br>
 A major association representing the music industry in the United States has determined that 4,000 copies of a new album featuring a popular rock group, called DUO, had been illegally downloaded last month. The cost of this album for those who elect to download it legally from online music stores is $10 per copy. So, the association concludes that the music company that holds the copyright to this album lost $40,000 dollars in revenue last month (on that album alone).
-
+>
 > * Scenario 2<br>
 You are engaged in an intense discussion with your friend, Bill, who works in the IT department at your university. Bill complains that many students are using P2P (peer‐to‐peer) file‐sharing applications on the university’s network to download excessive amounts of unauthorized copyrighted material. He also claims that the most effective solution to this problem would be to disable student access to all (existing) P2P sites and to prevent students at your institution from setting up their own P2P sites for any reason whatsoever (even to include noncopyrighted material). You convey to Bill your belief that this measure is too drastic. However, Bill argues that the only way to eliminate unauthorized file sharing among students at your institution is to disable access to all P2P software on the university’s network.
-
->Tavani, Herman T. 2015, *Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing*, 5th edn, Wiley. 
+> 
+> Tavani, Herman T. 2015, *Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing*, 5th edn, Wiley. 
 
 #### 3.2 Common fallacies
 **Fallacy does not mean false statement.**<br>
