@@ -151,7 +151,6 @@ Scenario: Reasoning about whether to download software from “Sharester”
 >
 > (Reproduced from Tavani, Herman T. 2015, *Ethics and Technology: Controversies, Questions and Strategies for Ethical Computing*, 5th edn, Wiley.)
 
-<br>
 **Apply seven-step strategy:**
 
 > **Step 1:** Convert the argument into standard form. List the premises and the conclusion.
@@ -192,8 +191,6 @@ Scenario: Reasoning about whether to download software from “Sharester”
 > **Step 7:** Make an overall assessment of the argument.
 > > The argument is valid and unsound.
 
-<br>
->
 > * Scenario 1<br>
 A major association representing the music industry in the United States has determined that 4,000 copies of a new album featuring a popular rock group, called DUO, had been illegally downloaded last month. The cost of this album for those who elect to download it legally from online music stores is $10 per copy. So, the association concludes that the music company that holds the copyright to this album lost $40,000 dollars in revenue last month (on that album alone).
 >
