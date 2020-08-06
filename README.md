@@ -2,7 +2,6 @@
 ## Contents
 
 * [**Week 1** Critical analysis and logical thinking techniques](#1)
-	
 	* [Definition of critical thinking](#1.1)
 	
 	* [Arguments and premises](#1.2)
@@ -15,16 +14,11 @@
 	* [Evaluating Arguments](#1.3)
 		* [A seven-step strategy](#1.3.1)
 		* [Common fallacies](#1.3.2)
-	
 * [**Week 2** Cyberethics, ethical concepts and theories](#2)
-	
 	* [1](#2.1) 
-	
 * [**Week 3**](#3)
 
-  ---
-
-
+***
 <h2 id="1"> Week 1 Critical analysis and logical thinking techniques</h2>
 <h3 id="1.1"> 1. Definition of critical thinking</h3>
 
