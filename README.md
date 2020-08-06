@@ -19,6 +19,7 @@ Notebook
 	* [1](#2.1) 
 * [**Week 3**](#3)
 
+
 ##<h2 id="1"> Week 1 Critical analysis and logical thinking techniques
 ###<h3 id="1.1"> 1. Definition of critical thinking
 **A mode of thinking where the thinker improves the quality of his or her thinking by skilfully taking charge of the structures inherent in thinking and imposing intellectual standards upon them.**<br>
