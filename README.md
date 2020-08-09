@@ -14,11 +14,18 @@
 	* [Evaluating Arguments](#1.3)
 		* [A seven-step strategy](#1.3.1)
 		* [Common fallacies](#1.3.2)
+	
 * [**Week 2** Cyberethics, ethical concepts and theories](#2)
+	
 	* [The differences between ethics and cyberethics](#2.1) 
+	
 	  * [Ethics and ethical reasoning](#2.1.1)
 	  * [Cyberethics](#2.1.2)
 	  * [The Australian Computer Society Code of Professional Conduct](#2.1.3)
+	  * [Why should IT professionals bother with ethical issues?](#2.1.4)
+	
+	  *
+	
 * [**Week 3**](#3)
 
 ***
@@ -433,5 +440,9 @@ The Australian Computer Society (ACS) is the largest professional body in Austra
 >    > 8. co-operate in advancing ICT by communication with other professionals, students and the public; and
 >    > 9. have pride in your profession, and protect and promote professionalism in ICT
 
-[My first IT professional toolkit](File://./IT_professional_toolkit.md)
+<h4 id="2.1.4">1.4 Why should IT professionals bother with ethical issues?</h4>
+
+[My first IT professional toolkit](./IT_professional_toolkit.md)
+
+<h3 id="2.2">2 Ethical theories and historical view of ethics</h2>
 
