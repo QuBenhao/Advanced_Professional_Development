@@ -433,5 +433,5 @@ The Australian Computer Society (ACS) is the largest professional body in Austra
 >    > 8. co-operate in advancing ICT by communication with other professionals, students and the public; and
 >    > 9. have pride in your profession, and protect and promote professionalism in ICT
 
-[My first IT professional toolkit](File://./IT_professional_toolkit.md)
+[My first IT professional toolkit](./IT_professional_toolkit.md)
 
