@@ -14,18 +14,18 @@
 	* [Evaluating Arguments](#1.3)
 		* [A seven-step strategy](#1.3.1)
 		* [Common fallacies](#1.3.2)
-	
 * [**Week 2** Cyberethics, ethical concepts and theories](#2)
-	
-	* [The differences between ethics and cyberethics](#2.1) 
-	
-	  * [Ethics and ethical reasoning](#2.1.1)
-	  * [Cyberethics](#2.1.2)
-	  * [The Australian Computer Society Code of Professional Conduct](#2.1.3)
-	  * [Why should IT professionals bother with ethical issues?](#2.1.4)
-	
-	  *
-	
+
+  * [The differences between ethics and cyberethics](#2.1) 
+
+    * [Ethics and ethical reasoning](#2.1.1)
+    * [Cyberethics](#2.1.2)
+    * [The Australian Computer Society Code of Professional Conduct](#2.1.3)
+    * [Why should IT professionals bother with ethical issues?](#2.1.4)
+
+  * [Ethical theories and historical view of ethics](#2.2)
+    * ww
+  * sss
 * [**Week 3**](#3)
 
 ***
@@ -444,6 +444,14 @@ The Australian Computer Society (ACS) is the largest professional body in Austra
 
 [My first IT professional toolkit](./IT_professional_toolkit.md)
 
-<h3 id="2.2">2 Ethical theories and historical view of ethics</h2>
+<h3 id="2.2">2 Ethical theories and historical view of ethics</h3>
 
+* Not every moral issue is a moral dilemma and not every dilemma is necessarily moral in nature.
+
+* The term **dilemma** refers a situation where one is confronted with **having to make a choice between two options, both of which can entail an undersirable or unpleasant outcome.**
+
+<h4 id="2.2.1"> 2.1 Ethics and morality</h4>
+
+* Ethics is the study of morality.
+* **Morality can be defined as a system of rules for guiding human conduct and principles for evaluating those rules.**
 
