@@ -24,9 +24,10 @@
     * [Why should IT professionals bother with ethical issues?](#2.1.4)
 
   * [Ethical theories and historical view of ethics](#2.2)
-    * ww
-  * sss
-* [**Week 3**](#3)
+    * [Ethics and morality](#2.2.1)
+* [**Week 3** Professional ethics and responsibility](#3)
+  * [Understanding professional ethics](#3.1)
+* Week 4
 
 ***
 <h2 id="1"> Week 1 Critical analysis and logical thinking techniques</h2>
@@ -260,6 +261,7 @@ You are engaged in an intense discussion with your friend, Bill, who works in th
 > > For example, Tim Berners-Lee believes that Twitter is superior to SNSs such as Facebook and LinkedIn. And Berners-Lee is clearly an expert on matters involving the web and the internet. So, Twitter must be superior to alternative SNSs such as Facebook and LinkedIn.
 >
 > **False Cause Fallacy**
+>
 > > PREMISE 1: Event X preceded event Y.<br>
 > > CONCLUSION: Event X is necessarily the cause of event Y.
 > >
@@ -444,7 +446,7 @@ The Australian Computer Society (ACS) is the largest professional body in Austra
 
 [My first IT professional toolkit](./IT_professional_toolkit.md)
 
-<h3 id="2.2">2 Ethical theories and historical view of ethics</h3>
+<h3 id="2.2">2. Ethical theories and historical view of ethics</h3>
 
 * Not every moral issue is a moral dilemma and not every dilemma is necessarily moral in nature.
 
@@ -454,4 +456,64 @@ The Australian Computer Society (ACS) is the largest professional body in Austra
 
 * Ethics is the study of morality.
 * **Morality can be defined as a system of rules for guiding human conduct and principles for evaluating those rules.**
+
+---
+
+<h2 id="3">Week 3 Professional ethics and responsibility</h2>
+
+<h3 id="3.1">1. Understanding professional ethics</h3>
+
+Modern definitions of the term **profession** generally emphasise that while it refers to a vocation or occupation (in other words, a job), it also implies that in order to do the job, the professional must possess expert knowledge not possessed by the layperson and must also have a certain amount of independence in doing their job (Barger, 2008). Some also argue that there are certain characteristics which do not apply to all jobs but which do apply to professions, for example, having a code of ethics.
+
+An additional measure for the term is that decisions made by professionals can have significant social effects. The roles and responsibilities of workers in traditional professions like engineering, medicine or law provide an instructive example. The responsibilities of engineers, doctors and lawyers exceed those of regular individuals – they may be asked to make decisions which contribute to society’s critical infrastructure, a person’s life or death, or an individual’s freedom or condemnation to prison. Just like engineers, doctors and lawyers, the work of a computer or IT professional has the potential to impact the general public, either positively or negatively.
+
+* **Safety‐Critical Software**
+
+What, exactly, is safety‐critical software? Bowyer (2001) points out that the phrase “safety‐ critical system” is often used to refer to computer systems that can have a “direct life‐threatening impact.”
+
+The computing pro- fession has established a number of professional societies, the largest of which are the **Association for Computing Machinery (ACM**) and the **Institute of Electrical and Electronics Engineers Computer Society (IEEE‐CS)**.
+
+In the 1990s, the ACM and IEEE approved a joint code of ethics for software engineers: the **IEEE‐CS/ACM (SECEPP)**. SECEPP comprises eight core principles:
+
+```
+1. PUBLIC: Software engineers shall act consistently with the public interest.
+
+2. CLIENT AND EMPLOYER: Software engineers shall act in a manner that is in the best interests of their client and employer, consistent with the public interest.
+
+3. PRODUCT: Software engineers shall ensure that their products and related modifica- tions meet the highest professional standards possible.
+
+4. JUDGMENT: Software engineers shall maintain integrity and independence in their professional judgment.
+
+5. MANAGEMENT: Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance.
+
+6. PROFESSION: Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
+
+7. COLLEAGUES: Software engineers shall be fair to and supportive of their colleagues.
+
+8. SELF: Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
+```
+
+* **Whistle‐Blowing**
+
+The **voluntary release** of **nonpublic** information, as a moral protest, by **a member or former member of an organization** outside the channels of communication to **an appropriate audience** about illegal and/or immoral conduct in the organization that is opposed in some significant way to the **public interest**.
+
+We briefly consider examples of each. De George’s category of  **“Internal whistle‐blowing”** includes the typical kinds of disclosures made by employees to their **supervisors**, or by students to their teachers or administrators, that is, ***within* their respective organizations**. Situations where an employee or a student reports an incident of harassment **affecting oneself** would fall under De George’s category of **“personal whistle‐blowing,”** as opposed to what we think of as more typical instances of “impersonal whistle‐blowing” that are directed to broader kinds of concerns (i.e., beyond merely the interests of oneself). His category of **“governmental whistle‐blowing”** includes examples in which government employees (as well as employees of firms that have government contracts) divulge abuse (e.g., involving the misuse of power, money, etc.) in one or more government agencies.
+
+**De George’s Model for Evaluating Whistle‐Blowing**
+
+De George proposes a series of conditions for determining when an employee is (i) morally permitted to blow the whistle and (ii) morally obligated to do so. He believes that employees are morally permitted to go public with information about the safety of a product, or a policy, when three key conditions are satisfied. For our purposes, we can summarize De George’s three conditions as follows:
+
+```
+1. The “policy” will do “serious and considerable harm” to the public.
+
+2. The employee(s) have reported the “serious threat” to their immediate supervisor and have made “their moral concern known.”
+
+3. The employee(s) have exhausted the “internal procedures and possibilities” within the organization, including going to the board of directors, if necessary. 
+
+While De George argues that one is morally permitted to blow the whistle when condi- tions 1–3 are satisfied, he does not believe that a person is yet morally required to do so. To have a strict moral obligation to blow the whistle, De George believes that two additional conditions must be satisfied:
+
+4. The employee(s) have “accessible, documented evidence that would convince a rea- sonable, impartial, observer that one’s view of the situation is correct.”
+
+5. The employee(s) have “good reasons to believe that by going public the necessary changes will be brought about.”
+```
 
